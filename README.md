@@ -10,6 +10,9 @@ I am an IT student currently undergoing my undergraduate degree, Bachelor in Eng
 *   🖥️  See my portfolio at [My Website](http://akshat-aqui.github.io/)
 *   🧠  I'm learning Networking, Linux, Python, Internet of Things <!-- Skills -->
 *   ⚡ Interests: I love cycling and exploring new places, and just started playing chess.
+
+<br />
+
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
