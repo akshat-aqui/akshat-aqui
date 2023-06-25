@@ -24,7 +24,7 @@ I am an IT student currently undergoing my undergraduate degree, Bachelor in Eng
 <br />
 
 <p align="left"> 
-<a href="https://discord.com/users/.glassofwhiskey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10" width="32" height="32" "/></a>
+<a href="https://discord.com/users/.glassofwhiskey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" style="padding-right:10px" width="32" height="32" "/></a>
 <a href="https://www.github.com/akshat-aqui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://akshat-aqui.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/akshat-aqui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/akshat-aqui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
