@@ -1,13 +1,13 @@
 # Hi there👋, I'm Akshat Kumar
 
 
-## I'm a Undergraduate student pursuing Bachelors of Engineering in the field of Computer Science.
+## I am an IT student currently undergoing my undergraduate degree, Bachelor in Engineering in the field of Information Technology (IT)
 
-- 🔭 Check out my Learnings: [Octet's Learning](https://akshat-aqui.github.io/)
-- 🌱 I’m currently learning Web Development and Data Structures & Algorithm.
-- 👯 I’m looking to contribute and work with firms.
-- 🥅 2022 Goals: Complete Web development and Data Structure & Algorithm.
-- ⚡ Interests: I trade and invest in Cryptocurrencies. I love playing Football and reading stuffs related to Time Travel.
+
+* 🌍  I'm based in Delhi, India
+* 🖥️  See my portfolio at [My Website](http://akshat-aqui.github.io/)
+* 🧠  I'm learning Networking, Linux, Python, Internet of Things
+* ⚡ Interests: I trade and invest in Cryptocurrencies. I love playing Football and reading stuffs related to Time Travel.
 
 
 ### Connect with me:
@@ -48,7 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+<!--
 - [Web Development - HTML ](https://octet3290.github.io/OctetLearnings/Web%20Development/HTML.html)
 - [Kubernetes - Managing Kubernetes Applications ](https://octet3290.github.io/OctetLearnings/Kubernetes/kubernetes6.html)
 - [Data Structure and Algorithm - Queue in C++ ](https://octet3290.github.io/OctetLearnings/DSA/DSAqueue.html)
@@ -64,25 +64,6 @@
 - [Introduction to Docker](https://octet3290.github.io/OctetLearnings/Docker/docker.html)
 
 
+-->
 
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://octet3290.github.io/OctetLearnings/index.html)
-
----
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octet3290&show_icons=true&theme=radical)
-
-</details>
-
-[website]: https://octet3290.github.io/OctetLearnings/
-[twitter]: https://twitter.com/rahul3290
-[instagram]: https://www.instagram.com/octet_rahul3290/
-[linkedin]: https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/
 
