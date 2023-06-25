@@ -14,7 +14,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Networking" width="26px" src="" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://image.pngaaa.com/282/1969282-middle.png" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://w7.pngwing.com/pngs/894/427/png-transparent-linux-kernel-tux-computer-icons-linux-vertebrate-monochrome-fictional-character-thumbnail.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" style="padding-right:10px;" />
 <img align="left" alt="IoT" width="26px" src="" style="padding-right:10px;" />
 
