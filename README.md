@@ -1,5 +1,5 @@
-# $ whoami Akshat Kumar
-<!--Hi there👋-->
+# Hi there👋, I'm Akshat Kumar
+
 
 ## I am an IT student currently undergoing my undergraduate degree, Bachelor in Engineering in the field of Information Technology (IT)
 
