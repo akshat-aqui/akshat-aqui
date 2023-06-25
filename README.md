@@ -9,6 +9,7 @@
 * 🧠  I'm learning Networking, Linux, Python, Internet of Things
 * ⚡ Interests: I'm passionate about cycling and travel, and I've recently started playing chess
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Skills:
 
