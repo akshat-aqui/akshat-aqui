@@ -29,6 +29,8 @@
 &nbsp;&nbsp;
 [<img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
 &nbsp;&nbsp;
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />][hashnode]
+&nbsp;&nbsp;
 [<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
 &nbsp;&nbsp;
 
@@ -58,4 +60,5 @@
 [website]: https://akshat-aqui.github.io/
 [twitter]: https://twitter.com/akshat_aqui
 [linkedin]: https://www.linkedin.com/in/akshat-aqui
+[hashnode]: https://akshat-aqui.hashnode.dev/
 
