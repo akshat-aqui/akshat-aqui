@@ -15,7 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,gcp,linux,py,raspberrypi,vscode)](https://skillicons.dev)
 
-<br />
 
 ### Connect with me:
 
