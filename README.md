@@ -14,7 +14,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="padding-right:10px;" />
+<img align="left" alt="IoT" width="26px" src="https://www.flaticon.com/free-icons/internet-of-things" style="padding-right:10px;" />
 
 <img align="left" alt="HTML" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" style="padding-right:10px;" />
 
