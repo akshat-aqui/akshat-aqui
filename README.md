@@ -12,7 +12,7 @@ I am an IT student currently undergoing my undergraduate degree, Bachelor in Eng
 *   ⚡ Interests: I love cycling and exploring new places, and just started playing chess.
 
 <br />
-### 📕 Latest Blog Posts
+### Connect with me:
 <br />
 <p align="left">
 
