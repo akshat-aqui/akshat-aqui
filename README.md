@@ -10,19 +10,7 @@
 * ⚡ Interests: I trade and invest in Cryptocurrencies. I love playing Football and reading stuffs related to Time Travel.
 
 
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />][twitter]
-&nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" />][instagram]
-&nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
-&nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
-&nbsp;&nbsp;
-
-
-### Languages and Tools:
+### Skills:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -42,6 +30,17 @@
 
 <br />
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="" width="22px" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />][twitter]
+&nbsp;&nbsp;
+[<img align="left" alt="" width="22px" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" />][instagram]
+&nbsp;&nbsp;
+[<img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
+&nbsp;&nbsp;
+[<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
+&nbsp;&nbsp;
 
 ---
 
