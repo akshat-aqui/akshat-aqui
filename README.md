@@ -53,4 +53,8 @@
 
 -->
 
+[website]: https://octet3290.github.io/OctetLearnings/
+[twitter]: https://twitter.com/rahul3290
+[instagram]: https://www.instagram.com/octet_rahul3290/
+[linkedin]: https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/
 
