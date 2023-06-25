@@ -11,10 +11,9 @@ I am an IT student currently undergoing my undergraduate degree, Bachelor in Eng
 *   🧠  I'm learning Networking, Linux, Python, Internet of Things### Skills
 *   ⚡ Interests: I love cycling and exploring new places, and just started playing chess.
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icons/server" width="36" height="36" alt="Networking" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icons/linux" width="36" height="36" alt="Linux" /></a>
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.flaticon.com/free-icons/internet-of-things" title="internet of things icons">Internet of things icons created by photo3idea_studio - Flaticon</a>
+</a>
 </p>              
                   ### Socials
                   
