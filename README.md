@@ -52,6 +52,6 @@
 -->
 
 [website]: https://akshat-aqui.github.io/
-[twitter]: https://twitter.com/akshat-aqui
+[twitter]: https://twitter.com/akshat_aqui
 [linkedin]: https://www.linkedin.com/in/akshat-aqui
 
