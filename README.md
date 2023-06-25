@@ -23,8 +23,6 @@
 
 [<img align="left" alt="" width="22px" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />][twitter]
 &nbsp;&nbsp;
-[<img align="left" alt="" width="22px" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" />][instagram]
-&nbsp;&nbsp;
 [<img align="left" alt="" width="22px" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" />][linkedin]
 &nbsp;&nbsp;
 [<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
@@ -53,8 +51,7 @@
 
 -->
 
-[website]: https://octet3290.github.io/OctetLearnings/
-[twitter]: https://twitter.com/rahul3290
-[instagram]: https://www.instagram.com/octet_rahul3290/
-[linkedin]: https://www.linkedin.com/in/rahul-kumar-yadav-5228121ba/
+[website]: https://akshat-aqui.github.io/
+[twitter]: https://twitter.com/akshat-aqui
+[linkedin]: https://www.linkedin.com/in/akshat-aqui
 
