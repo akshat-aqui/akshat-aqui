@@ -9,15 +9,11 @@
 * 🧠  I'm learning Networking, Linux, Python, Internet of Things
 * ⚡ Interests: I'm passionate about cycling and travel, and I've recently started playing chess
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-### Skills:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Networking" width="26px" src="[https://w1.pngwing.com/pngs/70/795/png-transparent-internet-logo-computer-network-computer-network-diagram-telecommunications-network-networking-hardware-user-local-area-network-management.png](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg)" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://w7.pngwing.com/pngs/894/427/png-transparent-linux-kernel-tux-computer-icons-linux-vertebrate-monochrome-fictional-character-thumbnail.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" style="padding-right:10px;" />
-<img align="left" alt="IoT" width="26px" src="" style="padding-right:10px;" />
+### Skills & Interests:
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,gcp,linux,py,raspberrypi,vscode)](https://skillicons.dev)
 
 
 
