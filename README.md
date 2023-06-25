@@ -7,7 +7,7 @@
 * 🌍  I'm based in Delhi, India
 * 🖥️  See my portfolio at [My Website](http://akshat-aqui.github.io/)
 * 🧠  I'm learning Networking, Linux, Python, Internet of Things
-* ⚡ Interests: I trade and invest in Cryptocurrencies. I love playing Football and reading stuffs related to Time Travel.
+* ⚡ Interests: I'm passionate about cycling and travel, and I've recently started playing chess
 
 
 ### Skills:
