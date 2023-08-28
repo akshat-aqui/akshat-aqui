@@ -28,7 +28,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,arduino,bash,docker,gcp,git,github,linux,powershell,py,raspberrypi,vscode)](https://skillicons.dev)
 
-<h3> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
+<h3 align="left">Badges & Certifications:</h3>
+
 To see all the other badges are [here](https://www.credly.com/users/akshat-aqui/badges)
 <!--START_SECTION:badges-->
 [![Google IT Support Certificate](https://images.credly.com/size/680x680/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/30dfbe31-859b-4dfb-8738-42b2a06ad3c3 "Google IT Support Certificate")
