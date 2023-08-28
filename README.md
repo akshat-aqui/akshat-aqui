@@ -32,6 +32,6 @@
 
 To see all the other badges are [here](https://www.credly.com/users/akshat-aqui/badges)
 <!--START_SECTION:badges-->
-[![Google IT Support Certificate](https://images.credly.com/size/680x680/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/30dfbe31-859b-4dfb-8738-42b2a06ad3c3 "Google IT Support Certificate")
+[![Google IT Support Certificate](https://images.credly.com/size/75x75/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/30dfbe31-859b-4dfb-8738-42b2a06ad3c3 "Google IT Support Certificate")
 [![Network Security & Database Vulnerabilities](https://images.credly.com/size/100x100/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png)](http://www.credly.com/badges/e0d89b53-1491-407e-b173-8270a87860e2 "Network Security & Database Vulnerabilities")
 <!--END_SECTION:badges-->
