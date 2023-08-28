@@ -19,6 +19,7 @@
 
 ### Badges:
 Complete list of badges are [here](https://www.credly.com/users/akshat-aqui/badges)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
