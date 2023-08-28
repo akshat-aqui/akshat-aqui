@@ -1,4 +1,4 @@
-![hello]([https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/))
+![hello]([https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/)
 # Hi there👋, I'm Akshat Kumar
 
 
