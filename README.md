@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,gcp,linux,py,raspberrypi,vscode)](https://skillicons.dev)
 
 ### Badges:
-All the other badges are [here](https://www.credly.com/users/akshat-aqui/badges)
+Complete list of badges are [here](https://www.credly.com/users/akshat-aqui/badges)
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
