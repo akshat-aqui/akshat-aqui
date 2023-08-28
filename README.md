@@ -15,6 +15,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,gcp,linux,py,raspberrypi,vscode)](https://skillicons.dev)
 
+### Badges & Certifications:
+<!--START_SECTION:badges-->        
+<!--END_SECTION:badges-->
+
 
 ### Connect with me:
 
@@ -27,10 +31,6 @@
 [<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
 &nbsp;&nbsp;
 
-
-### Badges & Certifications:
-<!--START_SECTION:badges-->        
-<!--END_SECTION:badges-->
 ---
 
 
