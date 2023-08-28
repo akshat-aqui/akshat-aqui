@@ -1,5 +1,6 @@
 ![hello](https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp)
-# Hi there👋, I'm Akshat Kumar
+
+## 👉 I'm Akshat Kumar
 
 
 ## I am an IT student currently undergoing my undergraduate degree, Bachelor in Engineering in the field of Information Technology (IT)
