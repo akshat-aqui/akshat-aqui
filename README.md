@@ -6,11 +6,11 @@
 
 - 🌍 I'm based in **Delhi, India**
 
-- 🌱 I’m currently learning **Computer Networks, Linux, Python, Internet of Things(IoT)**
+- 🌱 I’m currently learning **Computer Networks, Linux, Python, Internet of Things (IoT)**
 
 - 👨‍💻 [My website](https://akshat-aqui.github.io/)
 
-- 📝 I  write articles [here](https://akshat-aqui.hashnode.dev/)
+- 📝 [My Blog Page](https://akshat-aqui.hashnode.dev/)
 
 - 📫 Reach me at **akshatkumarofficial@gmail.com**
 
