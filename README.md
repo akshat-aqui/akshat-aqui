@@ -1,4 +1,4 @@
-![hello]([https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif](https://media.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif))
+![hello]([https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/))
 # Hi there👋, I'm Akshat Kumar
 
 
