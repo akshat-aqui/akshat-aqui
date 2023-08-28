@@ -16,8 +16,9 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,gcp,linux,py,raspberrypi,vscode)](https://skillicons.dev)
 
 ### Badges & Certifications:
-<!--START_SECTION:badges-->        
+<!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
 
 
 ### Connect with me:
