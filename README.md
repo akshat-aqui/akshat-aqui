@@ -27,10 +27,12 @@
 [<img align="left" alt="" width="22px" src="https://assets.epb.com/media/icons/globe-0.png" />][website]
 &nbsp;&nbsp;
 
----
+
 ### Badges & Certifications:
 <!--START_SECTION:badges-->        
 <!--END_SECTION:badges-->
+---
+
 
 [website]: https://akshat-aqui.github.io/
 [twitter]: https://twitter.com/akshat_aqui
