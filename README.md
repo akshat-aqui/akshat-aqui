@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.com%2Fgif%2Fwatch-dogs-boot-animation-KdnqJW&psig=AOvVaw28UAyWo5XDETPnpTK5f0vd&ust=1693310434306000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCiqYmn_4ADFQAAAAAdAAAAABBR))]([akshat-aqui.github.io](https://akshat-aqui.github.io/))
+[![MasterHead](gifs.com/gif/watch-dogs-boot-animation-KdnqJW)](https://rishavchanda.io)
 # Hi there👋, I'm Akshat Kumar
 
 
