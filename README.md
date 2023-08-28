@@ -5,7 +5,7 @@
 
 
 * 🌍  I'm based in Delhi, India
-* 🖥️  See my portfolio at [My Website](http://akshat-aqui.github.io/)
+* 🖥️  See my portfolio website [here](http://akshat-aqui.github.io/)
 * 🧠  I'm learning Networking, Linux, Python, Internet of Things
 * ⚡  I'm passionate about cycling and travel, and I've recently started playing chess
 
