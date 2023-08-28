@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Computer Networks, Linux, Python, Internet of Things(IoT)**
 
-- 👨‍💻 [My website](https://akshat-aqui.github.io/)(https://akshat-aqui.github.io/)
+- 👨‍💻 [My website](https://akshat-aqui.github.io/)
 
-- 📝 I  write articles on [https://akshat-aqui.hashnode.dev/](https://akshat-aqui.hashnode.dev/)
+- 📝 I  write articles [here](https://akshat-aqui.hashnode.dev/)
 
 - 📫 Reach me at **akshatkumarofficial@gmail.com**
 
