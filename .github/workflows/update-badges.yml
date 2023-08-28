@@ -11,3 +11,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_USER: akshat-kumar.f88b6e64
+          CREDLY_SORT: POPULAR
