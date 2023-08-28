@@ -1,18 +1,20 @@
-name: Update badges
+name: Update badges from credly
 
 on:
+  workflow_dispatch:
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    - cron: "10 0 */1 * *"
+  pull_request:
+
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Readme with badges from credly
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+      - name: Update Readme with badges from credly
+        uses: pemtajo/badge-readme@2.3.0
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "My commit message to update badges"
-          CREDLY_USER: akshat-kumar.f88b6e64
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update badges from credly"
+          CREDLY_USER: akshat-aqui
           CREDLY_SORT: POPULAR
