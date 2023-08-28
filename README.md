@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.makeagif.com/media/6-08-2014/0MuKJn.gif))]([https://rishavchanda.io](https://akshat-aqui.github.io/))
+![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 # Hi there👋, I'm Akshat Kumar
 
 
