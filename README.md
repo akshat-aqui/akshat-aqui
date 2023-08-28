@@ -1,4 +1,4 @@
-![hello]([https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif](https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp))
+![hello](https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.webp)
 # Hi there👋, I'm Akshat Kumar
 
 
