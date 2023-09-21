@@ -32,6 +32,6 @@
 
 To see all the other badges are [here](https://www.credly.com/users/akshat-aqui/badges)
 <!--START_SECTION:badges-->
-[![Google IT Support Certificate](https://images.credly.com/size/100x100/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/30dfbe31-859b-4dfb-8738-42b2a06ad3c3 "Google IT Support Certificate")
-[![Cisco Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/earner/earned/badge/df657064-2d4a-4e9b-8bde-dc8b5f903abd "Cisco Networking Basics")
+[![Google IT Support Certificate](https://images.credly.com/size/100x100/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/30dfbe31-859b-4dfb-8738-42b2a06ad3c3/public_url "Google IT Support Certificate")
+[![Cisco Networking Basics](https://images.credly.com/size/100x100/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/df657064-2d4a-4e9b-8bde-dc8b5f903abd/public_url "Cisco Networking Basics")
 <!--END_SECTION:badges-->
