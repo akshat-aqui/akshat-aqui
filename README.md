@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,arduino,bash,docker,gcp,git,github,linux,powershell,py,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,arduino,bash,docker,gcp,github,linux,powershell,py,raspberrypi,vscode)](https://skillicons.dev)
 
 <h3 align="left">Badges & Certifications:</h3>
 
