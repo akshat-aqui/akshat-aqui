@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Kumar</h1>
-<h3 align="center">I am an IT Engineer</h3>
+<h3 align="center">IT Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-aqui&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-aqui" /> </p>
 
