@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **akshatkumarofficial@gmail.com**
 
-- ⚡ I'm passionate about **cycling and travel, and I've recently started playing chess**
+- ⚡ I'm passionate about **cycling, travel, and I've recently started playing chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
